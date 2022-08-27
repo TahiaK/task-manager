@@ -11,7 +11,7 @@ Add task            |  Edit/Delete task
 ```sh
 npm install
 ```
-2. Add your connection string into your application code
+2. Add your connection string into your application code:
 - Ceate a .env file inside the src folder.
 - Inside the file asign the connection string to MONGO_URI.
 ```sh
