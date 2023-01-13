@@ -7,7 +7,7 @@ Add task            |  Edit/Delete task
 ![image](https://user-images.githubusercontent.com/105739044/187035719-7807f142-3da4-4cde-a083-5858b15c358e.png)  |  ![image](https://user-images.githubusercontent.com/105739044/187035736-3eb1511f-fe4e-49c5-b2f4-9ea5ebaccb1f.png)
 
 ## Get Started
-1. Clone this reposity and run:
+1. Clone this repository and run:
 ```sh
 npm install
 ```
